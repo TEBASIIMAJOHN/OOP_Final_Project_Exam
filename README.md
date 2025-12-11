@@ -8,7 +8,7 @@ Output HTML files: daily_sales.html
                    channel_leaderboard.html
                    category_share.html
                    heatmap.html
-Refresh .bat file: refresh_and_export.bat
+Refresh .bat file: refresh.bat
 
 
 # Run instructions
